@@ -1,0 +1,11 @@
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\bin\Debug\Forms.exe.config
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\obj\Debug\Forms.frmIngresar.resources
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\obj\Debug\Forms.frmMostrar.resources
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\bin\Debug\Forms.exe
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\bin\Debug\Forms.pdb
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\obj\Debug\Forms.exe
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\obj\Debug\Forms.pdb
+C:\Users\Facu\Desktop\TPs\REsp\TestNoTanFinal\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
